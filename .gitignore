@@ -1,2 +1,5 @@
 /data/
 /processed/
+/.ipynb_checkpoints/
+warnings.txt
+/examples/
