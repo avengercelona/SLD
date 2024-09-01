@@ -3,3 +3,4 @@
 /.ipynb_checkpoints/
 warnings.txt
 /examples/
+/__pycache__/
