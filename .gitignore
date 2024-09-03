@@ -5,3 +5,4 @@ warnings.txt
 /examples/
 /__pycache__/
 *.npy
+beginner.ipynb
